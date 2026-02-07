@@ -1,1 +1,12 @@
-{"Message": "Assalamu Alaikum Everyone. Thanks for using this software........."}
+{
+  "messages": [
+    {
+      "id": "2026-02-10-01",
+      "title": "Test",
+      "body": "Hello",
+      "date": "2026-02-10",
+      "time": "10:30"
+    }
+  ]
+}
+
